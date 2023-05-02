@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-27T23:01:42 GMT-04:00" name="Default suite" finished-at="2023-04-27T23:01:42 GMT-04:00" duration-ms="90">
+  <suite started-at="2023-05-01T15:27:20 GMT-04:00" name="Default suite" finished-at="2023-05-01T15:27:20 GMT-04:00" duration-ms="45">
     <groups>
     </groups>
-    <test started-at="2023-04-27T23:01:42 GMT-04:00" name="Default test" finished-at="2023-04-27T23:01:42 GMT-04:00" duration-ms="90">
-      <class name="Demo2">
-        <test-method signature="Demo2Test()[pri:0, instance:Demo2@6193932a]" started-at="2023-04-27T23:01:42 GMT-04:00" name="Demo2Test" finished-at="2023-04-27T23:01:42 GMT-04:00" duration-ms="22" status="PASS">
+    <test started-at="2023-05-01T15:27:20 GMT-04:00" name="Default test" finished-at="2023-05-01T15:27:20 GMT-04:00" duration-ms="45">
+      <class name="SampleGitTest">
+        <test-method signature="SampleGitTest()[pri:0, instance:SampleGitTest@6193932a]" started-at="2023-05-01T15:27:20 GMT-04:00" name="SampleGitTest" finished-at="2023-05-01T15:27:20 GMT-04:00" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Demo2Test -->
-      </class> <!-- Demo2 -->
+        </test-method> <!-- SampleGitTest -->
+      </class> <!-- SampleGitTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
